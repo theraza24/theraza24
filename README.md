@@ -8,6 +8,6 @@ When I'm not coding, I love reading about Astronomy and bragging about the thing
 
 <a title="Portfolio, raza.github.io" href="https://theraza24.github.io/raza.github.io"><img alt="My portfolio, raza.github.io" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a> <a title="DEV.to Articles" href="https://www.skatestv.com/"><img alt="My DEV.to Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/articles.png" width="130" /></a> <a title="Twitter Profile" href="https://twitter.com/theraza24"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /></a>
 
-If you like what I do and want me to build more such projects, maybe consider becoming a patron or buying me a coffee  🥺👉👈
+If you like what I do and want me to build more such projects, maybe consider becoming a patron or buying me a coffee  🥺👉👈<br><br>
 <a href=""><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" width="150"></a> &nbsp; <a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
