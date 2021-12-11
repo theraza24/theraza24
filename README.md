@@ -8,6 +8,10 @@ When I'm not coding, I love reading about Astronomy and bragging about the thing
 
 <a title="Portfolio, raza.github.io" href="https://theraza24.github.io/raza.github.io"><img alt="My portfolio, raza.github.io" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a> <a title="DEV.to Articles" href="https://www.skatestv.com/"><img alt="My DEV.to Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/articles.png" width="130" /></a> <a title="Twitter Profile" href="https://twitter.com/theraza24"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /></a>
 
+Energetic Freelance Web developer, self-starter who loves to code Web. Goal-focused with high UI/UX design & coding skills. I offer services related to Web Development, Bug Fixing, Design & Redesign websites/blogs on Blogger® , Wordpress® and Wix® platforms! Inquire for a project now!
+
+
+
 If you like what I do and want me to build more such projects, buying me a coffee  🥺👉👈<br>
 
 <a href="https://www.buymeacoffee.com/skatestv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
