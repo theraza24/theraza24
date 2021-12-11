@@ -1,6 +1,6 @@
 ![A cover image that says "Hi I'm Raza Shaikh" in the center. On left, there's a cartoon character representing saurabh who is holding sunflower in his one hand](https://blogger.googleusercontent.com/img/a/AVvXsEhMds1602IjXijz6NMjqUyy0djAjqnRnOLGEWmNq2uFhvnzZXqy8ryds3DJpnw7gdRYkirMU9kvNtrqXVEho7Gi_ndxmy3nj6jZgw8wBz4ylHu8mxXPPKUj9TQdleYNUSXeSvR3fs6-qKfH2_0rCWB-YkYP3IPc5Xg4t4RkGkl3RjzIMzeDwtlfUUelbA=w640-h242)
 
-## Raza Shaikh (he/him) 🌻
+## Raza Shaikh 🌻
 
 I lovee open-source! On my GitHub, You will find App source codes , Web based Projects and other . I am currently working on skatestv [@skatestv](https://github.com/skatetv)
 
