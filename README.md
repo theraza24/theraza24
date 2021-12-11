@@ -14,6 +14,4 @@ Energetic Freelance Web developer, self-starter who loves to code Web. Goal-focu
 
 If you like what I do and want me to build more such projects, buying me a coffee or Hire Me 🥺👉👈<br>
 
-<a href="https://www.fiverr.com/theraza24?up_rollout=true"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgcfl70IN_AmjHSYQZ-ZYmXCCtOdqFBK5zNrWmNXQ-KPjP6GQbK-Ll84VxOX63gUFSnMNHCRgD0yxj60Sx6o4DjyI770p8g2a7fGFi8FANknPUvFTY2BT9h1Uf0vwhI56yZmP_Cy3YXYJD7k6DWKcNiAzlZ3tj_npFy8Hdf0J3_qrrd2mneIME-5NTuvA=s320" alt="Hire me" width="150"></a> &nbsp;
-
-<a href="https://www.buymeacoffee.com/skatestv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.fiverr.com/theraza24?up_rollout=true"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgcfl70IN_AmjHSYQZ-ZYmXCCtOdqFBK5zNrWmNXQ-KPjP6GQbK-Ll84VxOX63gUFSnMNHCRgD0yxj60Sx6o4DjyI770p8g2a7fGFi8FANknPUvFTY2BT9h1Uf0vwhI56yZmP_Cy3YXYJD7k6DWKcNiAzlZ3tj_npFy8Hdf0J3_qrrd2mneIME-5NTuvA=w200-h72" alt="Hire me" height="40" width="110"></a> &nbsp;<a href="https://www.buymeacoffee.com/skatestv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
