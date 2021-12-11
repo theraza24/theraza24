@@ -8,5 +8,6 @@ When I'm not coding, I love reading about Astronomy and bragging about the thing
 
 <a title="Portfolio, raza.github.io" href="https://theraza24.github.io/raza.github.io"><img alt="My portfolio, raza.github.io" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a> <a title="DEV.to Articles" href="https://www.skatestv.com/"><img alt="My DEV.to Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/articles.png" width="130" /></a> <a title="Twitter Profile" href="https://twitter.com/theraza24"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /></a>
 
-If you like what I do and want me to build more such projects, donate us via paypal  🥺👉👈<br><br>
-<a href="https://paypal.me/theraza24"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgd2xo8X2w7-fcuRNUEF_0Iiy85Nv_WoLXlAJ3mQf_ypqdfKw8GpTS98hE5V-MLM_cGpOs9m66j_fa3yj6Lp0S8xvOYvNJidwxh7P6sM23oxfbNDIY4Gv5lqN7Hf7R_MqWzPQEaRe_SudOk3rdDbj2U9ZExoML_FFxdAcemWXKa67T93zYNsvHxIZrNIQ=s320" alt="Donate us" width="150"></a> 
+If you like what I do and want me to build more such projects, buying me a coffee  🥺👉👈<br><br>
+
+<a href="https://www.buymeacoffee.com/skatestv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
